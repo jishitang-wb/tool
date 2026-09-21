@@ -370,10 +370,6 @@ DAZN 2,https://live.catvod.com/?id=L2xyL2RMUU9BUDEyaldTeXhSaDdaTlNOVnJmT1ZDc0lWQ
 Catchplay电影台,https://live.catvod.com/?id=L2xyL2RMUU9BUDEyaldueTZDbkdwQzJ5eHFmQjZXaHVwQzJ5eFUyZ3BOXzRWUG5hQW18Y2Q9ZmE0N2M0NjUmY249MWUwZDU4NGMmY3A9M2U2NTg0YTcmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=8c88c6ac0d55a30d16f8e6645363ee7e
 动物星球,https://live.catvod.com/?id=L2xyL2RMUU9BUDEyaldzNHZVYXlWNXQ4UVVJZTZzZkI2V2h1cEMyeXhVMmdwTl80VlBuYUFtfGNkPWZhNDdjNDY1JmNuPTFlMGQ1ODRjJmNwPWQzMDBlYjRlJmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=8c88c6ac0d55a30d16f8e6645363ee7e
 咪咕Ubuntu线,#genre#
-凤凰香港,http://zizi.dpdns.org/api.php?id=V50f4d90WXoSiMipB8lK#http://zizi.dpdns.org/api.php?id=XVVlNQ8I052wbC3ijh0O#http://zizi.dpdns.org/api.php?id=VLliHbTiE7ThnrXmGESD#http://zizi.dpdns.org/api.php?id=584Bi9QYrrIBiA4blWIm#http://zizi.dpdns.org/api.php?id=uRmCDqzhszhJ6jycPImq#http://zizi.dpdns.org/api.php?id=H6QNcWQv2ywEh4flZgS7#http://zizi.dpdns.org/api.php?id=zH4Ye8Gf8EiUSwS44Z4o#http://zizi.dpdns.org/api.php?id=cR3Vk1X6d86f0Z3aZXVY
-凤凰中文,http://zizi.dpdns.org/api.php?id=xrPpHsKrYhTRUDUE6pUy#http://zizi.dpdns.org/api.php?id=NMMT208QBjCIFX6MiTjf#http://zizi.dpdns.org/api.php?id=mQN3nkwurpEa4IF56GpP#http://zizi.dpdns.org/api.php?id=VEfgrEUuwI8Mc1WnKNyH#http://zizi.dpdns.org/api.php?id=5FMkFZFniUnUY0DVNAcm#http://zizi.dpdns.org/api.php?id=jTXIGcuTac24xfWZxrwQ
-凤凰资讯,http://zizi.dpdns.org/api.php?id=2FUUl1dQnRm6qEBEPWT3#http://zizi.dpdns.org/api.php?id=Pq2JLnztJwpP11lLFglh#http://zizi.dpdns.org/api.php?id=qeXbdnFMCAONUQ67i64S#http://zizi.dpdns.org/api.php?id=Fs8w2MKyIYnYZsJJlrsx#http://zizi.dpdns.org/api.php?id=Bimg84C2nRd2menpTO2C#http://zizi.dpdns.org/api.php?id=ip60KOXAMXpsdCeTRkPw#http://zizi.dpdns.org/api.php?id=i8b0vgVLxtxbaMdTHNwk#http://zizi.dpdns.org/api.php?id=Qfr1IDY5u4R697RFzG8g
-凤凰电影台,http://zizi.dpdns.org/api.php?id=kofZOoxE54rOyNIAyEgX#http://zizi.dpdns.org/api.php?id=Nr5vClZYdxCw0NI4U6yY
 CCTV1综合,http://1.95.166.182:5008/abc123/608807420
 CCTV2财经,http://1.95.166.182:5008/abc123/631780532
 CCTV3综艺,http://1.95.166.182:5008/abc123/624878271
@@ -605,13 +601,15 @@ WTT 木原美悠摘冠 邱党4-2A·勒布伦登顶 全场回放（马特） 20:0
 法甲 马赛VS巴黎圣日耳曼 全场回放（AI智慧观赛） 02:30,http://1.95.166.182:5008/abc123/967810151
 意甲 AC米兰VS莱切 全场回放（石庆圣、李彦） 02:40,http://1.95.166.182:5008/abc123/967809843
 西甲 瓦伦西亚VS皇家社会 全场回放（梁祥宇） 02:45,http://1.95.166.182:5008/abc123/967809868
-中国围棋甲级联赛 围甲联赛第15轮 解说 14:00,http://1.95.166.182:5008/abc123/967153517
+中国自行车运动协会系列赛 2026第十四届环鄱阳湖国际自行车大赛 178559928810928081122026第十四届环鄱阳湖国际自行车大赛全场回放（官方解说） 08:00,http://1.95.166.182:5008/abc123/967822813
+中国围棋甲级联赛 围甲联赛第15轮 2026中国围棋甲级联赛第15轮全场回放（官方解说） 14:00,http://1.95.166.182:5008/abc123/967826511
+斯诺克 傅家俊PK吴安仪 白雨露23:00登场 朱峰立 20:00,http://1.95.166.182:5008/abc123/967729389
+斯诺克 傅家俊PK吴安仪 白雨露23:00登场 陶哲铭 20:00,http://1.95.166.182:5008/abc123/967729363
 斯诺克 傅家俊PK吴安仪 白雨露23:00登场 1号桌 17:00,http://1.95.166.182:5008/abc123/967726648
 斯诺克 傅家俊PK吴安仪 白雨露23:00登场 2号桌 17:00,http://1.95.166.182:5008/abc123/967726656
 斯诺克 傅家俊PK吴安仪 白雨露23:00登场 3号桌 17:00,http://1.95.166.182:5008/abc123/967726664
 斯诺克 傅家俊PK吴安仪 白雨露23:00登场 4号桌 17:00,http://1.95.166.182:5008/abc123/967726670
 NBA经典赛事 NBA季后赛精彩重播：湖人vs火箭G6 杨健 马健 周鹏 18:00,http://1.95.166.182:5008/abc123/967701958
-福建闽港澳台“同心杯”篮球邀请赛 香港金牛VS台湾啤酒 清流播出 18:25,http://1.95.166.182:5008/abc123/967678177
 决战亚洲 周雨、程靖淇、徐晨皓为您复盘 周雨 程靖淇 徐晨皓 徐铭辰 常新宇 20:00,http://1.95.166.182:5008/abc123/967773556
 福建闽港澳台“同心杯”篮球邀请赛 福建晋江文旅VS澳门昊骏 清流播出 20:25,http://1.95.166.182:5008/abc123/967678215
 WTA 克韦多VS波多罗斯卡 张文悦 08:45,http://1.95.166.182:5008/abc123/967770351
@@ -625,10 +623,9 @@ WTA 克韦多VS波多罗斯卡 英文原声 22:00,http://1.95.166.182:5008/abc12
 WTA 克韦多VS波多罗斯卡 解说 22:00,http://1.95.166.182:5008/abc123/967816840
 中国自行车运动协会系列赛 2026第十四届环鄱阳湖国际自行车大赛 解说 08:00,http://1.95.166.182:5008/abc123/967732497
 咪咕体育日报 undefined 咪咕体育日报 第188期 08:00,http://1.95.166.182:5008/abc123/967157847
-决战亚洲 周冠达、侯英超、程靖淇邀您看国乒 周冠达 侯英超 程靖淇 08:40,http://1.95.166.182:5008/abc123/967773241
 CPB中国棒球城市联赛 深圳蓝袜 VS 北京正大龙 清流播出 10:30,http://1.95.166.182:5008/abc123/967674046
-WTA Day2 赛场原声 11:00,http://1.95.166.182:5008/abc123/967696767
-WTA Day2 英文原声 11:00,http://1.95.166.182:5008/abc123/967696786
+WTA 王欣瑜出战！克雷吉茨科娃接场 赛场原声 11:00,http://1.95.166.182:5008/abc123/967696767
+WTA 王欣瑜出战！克雷吉茨科娃接场 英文原声 11:00,http://1.95.166.182:5008/abc123/967696786
 福建闽港澳台“同心杯”篮球邀请赛 澳门昊骏VS台湾啤酒 清流播出 14:55,http://1.95.166.182:5008/abc123/967678242
 国际篮联洲际杯 维尔纽斯莱塔斯VSRSSB老虎 孙博 15:15,http://1.95.166.182:5008/abc123/967819071
 国际篮联洲际杯 维尔纽斯莱塔斯VSRSSB老虎 赛场原声 15:20,http://1.95.166.182:5008/abc123/967819079
